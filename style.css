@@ -1,0 +1,73 @@
+.panda-slide{
+    background-color: #feeae9;
+    border-radius: 10px;
+}
+.panda-btn{
+    background-color: #ff217a;
+    border: 0;
+    border-radius: 8px;
+    color: white;
+    width:6em;
+    height: 2.5em;
+}
+.panda-price-text{
+    color:#ff217a;
+    font-weight:bold;
+}
+.panda-watch{
+    background-color: #ffa500;
+    border-radius: 10px;
+    color: white;
+    height: 125px;
+    width: 320px;
+}
+.panda-watch img{
+    width: 100px;
+}
+.panda-bag{
+    background-color: #da70d6;
+    border-radius: 10px;
+    color: white;
+    width: 320px;
+    height: 125px;
+}
+.panda-bag img{
+    width: 100px;
+}
+.panda-shoes{
+    background-color: #0000ff;
+    border-radius: 10px;
+    color: white;
+    width: 320px;
+    height: 125px;
+}
+.panda-shoes img{
+    width: 100px;
+}
+
+.panda-footer{
+    border: 0;
+    background-color: white;
+}
+.panda-border{
+    border: none;
+}
+.panda-submit{
+    background-color:#ffdfdd;
+    height: 330px;
+    width: 1100px;
+    margin-top: 40px;
+    margin-left: 80px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+}
+.panda-input{
+    width: 310px;
+    height: 42px;
+    display: block;
+    margin-bottom: 5px;
+    border:1px solid rgb(185, 175, 175);
+}
+.panda-footer-text{
+    color: gray;
+}
